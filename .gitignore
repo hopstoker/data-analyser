@@ -60,3 +60,15 @@ kotlin-ide/
 .kotlin/
 .teamcity/
 .java-version
+.idea
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.DS_Store
+!gradle-wrapper.jar
